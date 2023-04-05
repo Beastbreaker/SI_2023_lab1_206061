@@ -1,0 +1,54 @@
+commit 387d70b21adb522de9f74ca066c5c66db42d7768 (HEAD -> bug3, origin/master, origin/bug3, master)
+Author: Konstantin Papuchiev <kkostak@yahoo.com>
+Date:   Wed Apr 5 23:50:43 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit ca6915128d43a6c134260b51d4d947b2422e30bb
+Merge: 11267ef 52c8737
+Author: Konstantin Papuchiev <kkostak@yahoo.com>
+Date:   Thu Apr 6 00:08:49 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 11267ef0b038f2e59d9b70141032921b26d949e9
+Author: Konstantin Papuchiev <kkostak@yahoo.com>
+Date:   Thu Apr 6 00:02:29 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit 52c87370b673d506f13bafc96448655606f33ae8 (origin/bug2, bug2)
+Author: Konstantin Papuchiev <kkostak@yahoo.com>
+Date:   Wed Apr 5 23:46:20 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit c7e87b0a0c91db7e5ae206f7bf12811b62bdc13b (origin/bug1, bug1)
+Author: Konstantin Papuchiev <kkostak@yahoo.com>
+Date:   Wed Apr 5 22:55:44 2023 +0200
+
+    Fix wrong loop for reading.
+
+commit f74a511f1a082426eb1294747adb52c3d0dd6b39
+Author: Konstantin Papuchiev <kkostak@yahoo.com>
+Date:   Tue Apr 4 14:40:28 2023 +0200
+
+    Add java class
+
+commit b9652c9660fc46edc0e1f7981d7952056c232010
+Author: Konstantin Papuchiev <kkostak@yahoo.com>
+Date:   Tue Apr 4 14:39:07 2023 +0200
+
+    Initial commit
+
+commit 157ee237e7fc555fd9e71991c530197360ec3402
+Author: Konstantin Papuchiev <kkostak@yahoo.com>
+Date:   Tue Apr 4 14:33:18 2023 +0200
+
+    Add java class
+
+commit fd525d542585dd3fea76804b12ce2f0cf5c383a1
+Author: Konstantin Papuchiev <kkostak@yahoo.com>
+Date:   Tue Apr 4 14:29:29 2023 +0200
+
+    Initial commit
